@@ -1,5 +1,8 @@
 # Maze Generator and Solver
 
+Demo:
+
+[![Video Title](https://img.youtube.com/vi/qvApyKq_GxY/0.jpg)](https://www.youtube.com/watch?v=qvApyKq_GxY)
 This Java program generates and solves a maze using depth-first search (DFS) for maze generation and breadth-first search (BFS) for maze solving. The program uses the `DUDraw` library for drawing the maze and handling user interactions.
 
 ## Features
